@@ -1,7 +1,7 @@
 # gitcommands
 Git commands for newbs
 
-
+git stash push --include-untracked // stash to pull
 
 git clone <url>
 git add . // add all
